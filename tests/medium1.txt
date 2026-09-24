@@ -1,0 +1,3 @@
+memory memory memory
+thread thread pointer
+queue worker mutex

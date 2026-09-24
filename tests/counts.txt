@@ -1,0 +1,6 @@
+memory
+memory
+memory
+thread
+thread
+pointer

@@ -1,0 +1,3 @@
+producer consumer
+queue queue queue
+thread mutex semaphore

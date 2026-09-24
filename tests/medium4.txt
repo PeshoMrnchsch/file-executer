@@ -1,0 +1,4 @@
+worker worker
+memory pointer
+thread thread
+producer consumer queue

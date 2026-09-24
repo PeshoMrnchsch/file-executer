@@ -1,0 +1,4 @@
+pointer pointer
+memory queue
+worker thread
+mutex semaphore
